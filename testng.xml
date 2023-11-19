@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test  name="Main test">
         <classes>
-            <class name="US04.AddCountry">
+            <class name="US04.AddField">
             </class>
         </classes>
     </test>

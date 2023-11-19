@@ -46,13 +46,7 @@ public class AddCountry {
     }
     @Test
     public void createCountry(){
-        //{
-        //  "id": null,
-        //  "name": "karahan",
-        //  "code": "karahan123",
-        //  "translateName": [],
-        //  "hasState": false
-        //}
+
         rnName = random.name().firstName();
         rnCode = random.code().asin();
         List<Object> translateNameList = new ArrayList<>();
